@@ -1,0 +1,7 @@
+{
+  "name": "The Noir Adventure",
+  "description": "A procedurally generated voice-controlled text adventure inspired by classic noir horror.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
